@@ -1,10 +1,10 @@
 ## Table of Contents
-* Site Owner Goals
-* User Goals
-* User Stories
-* User Requirements
-* User Expectations
 * User Experience (UX)
+    * Site Owner Goals
+    * User Goals
+    * User Stories
+    * User Requirements
+    * User Expectations
     * Design Choices
         * Fonts
         * Colours
