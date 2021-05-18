@@ -8,7 +8,12 @@
     * Design Choices
         * Fonts
         * Colours
-    * Features
-        * Existing Features
-        * Desired Features
-    
+* Features
+    * Existing Features
+    * Desired Features
+* Technologies Used
+* Testing
+* Bugs
+* Deployment
+* Credits
+* Final Comments
