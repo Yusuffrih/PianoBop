@@ -55,3 +55,9 @@
 * To give the website developer some feedback 
 * To be able to contact the site owner to give feedback
 * To be able to choose a difficulty level 
+
+### Design Choices
+To keep the game nice and simple for the user, I decided to keep the colour scheme nice and basic. The user’s attention should be drawn to the game area as soon as possible with no confusion about what the aim of the game is. To achieve this, the game area is going to be placed in the middle of the screen with a contrasting background colour.
+#### Fonts: 
+There is very little writing on the landing page so as not to confuse the user and to not take attention away from the game area. For the fonts, I decided to go to [Google Fonts](https://fonts.google.com/?standard-styles=) which is great for getting any kind of font you want. The fonts I chose for my page are *Roboto* & *Lato* with *sans-serif* as a backup font in the event that Google Fonts does not work. 
+
