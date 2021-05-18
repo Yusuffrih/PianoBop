@@ -58,6 +58,25 @@
 
 ### Design Choices
 To keep the game nice and simple for the user, I decided to keep the colour scheme nice and basic. The user’s attention should be drawn to the game area as soon as possible with no confusion about what the aim of the game is. To achieve this, the game area is going to be placed in the middle of the screen with a contrasting background colour.
+
 #### Fonts: 
 There is very little writing on the landing page so as not to confuse the user and to not take attention away from the game area. For the fonts, I decided to go to [Google Fonts](https://fonts.google.com/?standard-styles=) which is great for getting any kind of font you want. The fonts I chose for my page are *Roboto* & *Lato* with *sans-serif* as a backup font in the event that Google Fonts does not work. 
+
+#### Colours:
+When deciding what colour scheme to choose for my project, I decided to keep it really simple with mainly block colours and little design so as to keep the site looking simple yet sleep and visually appealing.
+
+I used [Coolors](https://coolors.co/) to generate a colour scheme for the site. This is a really cool site that randomly generates colour schemes. You can just keep generating new colour schemes until you find one that fits what your requirements are. When the colour scheme comes up, it provides you with the Hex value of the colours so you can just copy and paste it into your code. See below for my choice of colour scheme. 
+
+The HEX values of the colours that I used are: 
+* FBFFF1 - Ivory 
+    * I picked this colour for my piano keys as this is what colour they are in real life.
+
+* 3F4045 - Onyx
+    * I picked this colour as it is a dark gray colour which matches the theme of the black and white piano.
+
+* 30292F - Black Coffee
+    * I picked this colour, again because it is close to black and will work well as the black keys on the piano among other items on the page
+
+* 58A4B0 - Cadet Blue
+    * I picked this colour to add an injection of colour into the page and give it an appealing look. This will be used in various items on the page including headers and borders etc
 
