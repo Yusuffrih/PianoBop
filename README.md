@@ -43,3 +43,9 @@
 * As a user, I would like to be able to see the game developer’s Github page to see if they have any other cool games to play
 * As a user, I would like to be able to pick a colour theme for the website
 
+### User Requirements
+* Needs to be easy to navigate between the different pages 
+* To have a landing page that tells the user what it within the first 3 seconds 
+* To have a well laid out page that is easy to use and understandable
+* To get feedback from the game when I win or lose in a level of the game
+* To be able to see the score throughout the game 
