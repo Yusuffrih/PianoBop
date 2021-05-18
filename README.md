@@ -49,3 +49,9 @@
 * To have a well laid out page that is easy to use and understandable
 * To get feedback from the game when I win or lose in a level of the game
 * To be able to see the score throughout the game 
+
+### User Expectations
+* To have instructions on how to play the game
+* To give the website developer some feedback 
+* To be able to contact the site owner to give feedback
+* To be able to choose a difficulty level 
