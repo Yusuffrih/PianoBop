@@ -25,14 +25,14 @@
 * I want to have a visually appealing website
 * I want the users to feel like they are testing their short-term memory and attention span
 
-## User Goals
+### User Goals
 * To have fun while playing the game
 * For the game to be responsive so that I can play on various devices
 * To feel like my short-term memory is being challenged 
 * To be able to see my score throughout the duration of the game 
 * To be give feedback based on my choices - interactivity
 
-## User Stories
+### User Stories
 * As a user, I would like to track my score throughout the game
 * As a user, I would like to be able to choose a variety of difficulties based on my skill level
 * As a user, I would like to be given some positive feedback when I get past a level of the game
