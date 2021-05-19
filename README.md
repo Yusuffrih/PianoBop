@@ -100,3 +100,17 @@ The HEX values of the colours that I used are:
 #### Icons
 I used some music icons to add some design to the page and keep with the music theme. I got these from [Font Awesome](https://fontawesome.com/) which is a great website for all your icon needs. I feel that the icons just add a little bit of extra style to the page and make it overall a bit more visually appealing. 
 
+## Features 
+### Implemented Features
+* Title section at the top of the page
+* Play button to begin the game
+* Score area outlining the score and the level of the user
+* Game area where the piano is located
+* Interactive piano keys
+* Musical notes attached to piano keys
+* Footer which provides the user a link to the site owners Github profile
+*  A responsive design that accomodates multiple devices
+* Feedback form operating through Email.js which provides the user with an personalised automatic, response to let them know that their feedback has been received
+* Feedback on how they are doing in the game 
+* Button feedback for every button pressed or click they make through audio and visual
+
