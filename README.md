@@ -180,7 +180,20 @@ I used some music icons to add some design to the page and keep with the music t
 ### Fix 2 
 
 ## Deployment
+### Github Pages
+After the coding and testing was complete, and the website was ready for deployment, the following steps were taken: 
+1. Opened Github repository
+2. Opened settings 
+3. Click into 'Pages' section on the side menu
+4. Clicke into Branches
+5. Selected 'Master Branch'
+6. Clicked save
+7. Refreshed page
+8. Awaite confirmation of deployment to Github Pages
 
+Github Pages URL is then provided: 
+
+### Run Locally
 
 ## Credits
 
