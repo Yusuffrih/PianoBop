@@ -114,3 +114,6 @@ I used some music icons to add some design to the page and keep with the music t
 * Feedback on how they are doing in the game 
 * Button feedback for every button pressed or click they make through audio and visual
 
+### Features Yet To Be Implemented 
+* Giving the use the option to choose different difficulty levels 
+* Have a song played through the piano for the user to attempt to repeat
