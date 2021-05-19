@@ -157,6 +157,19 @@ I used some music icons to add some design to the page and keep with the music t
 * Errors
 * Fixes
 
+### Feature Testing 
+1. Title section at the top of the page
+2. Play button to begin the game
+3. Score area outlining the score and the level of the user
+4. Game area where the piano is located
+5. Interactive piano keys
+6. Musical notes attached to piano keys
+7. Footer which provides the user a link to the site owners Github profile
+8. A responsive design that accomodates multiple devices
+9. Feedback form operating through Email.js which provides the user with an personalised automatic, response to let them know that their feedback has been received
+10. Feedback on how they are doing in the game
+11. Button feedback for every button pressed or click they make through audio and visual
+
 
 ## Bugs
 
