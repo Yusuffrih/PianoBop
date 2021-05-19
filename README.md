@@ -69,16 +69,21 @@ When deciding what colour scheme to choose for my project, I decided to keep it 
 
 I used [Coolors](https://coolors.co/) to generate a colour scheme for the site. This is a really cool site that randomly generates colour schemes. You can just keep generating new colour schemes until you find one that fits what your requirements are. When the colour scheme comes up, it provides you with the Hex value of the colours so you can just copy and paste it into your code. See below for my choice of colour scheme. 
 
+![Colour Pallette](assets/images/piano-bop-colours.png)
+
 The HEX values of the colours that I used are: 
-* FBFFF1 - Ivory 
+* #FBFFF1 - Ivory 
     * I picked this colour for my piano keys as this is what colour they are in real life.
 
-* 3F4045 - Onyx
+* #3F4045 - Onyx
     * I picked this colour as it is a dark gray colour which matches the theme of the black and white piano.
 
-* 30292F - Black Coffee
+* #30292F - Black Coffee
     * I picked this colour, again because it is close to black and will work well as the black keys on the piano among other items on the page
 
-* 58A4B0 - Cadet Blue
+* #58A4B0 - Cadet Blue
     * I picked this colour to add an injection of colour into the page and give it an appealing look. This will be used in various items on the page including headers and borders etc
+
+* #FCFCFC - White 
+    * I picked white to be in my website colour scheme as it is a simple colour that contrasts well to all other colours and is keeping with the theme of the piano
 
