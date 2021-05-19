@@ -45,8 +45,8 @@
 * As a user, I would like to be able to pick a colour theme for the website
 
 ### User Requirements
-* Needs to be easy to navigate between the different pages 
-* To have a landing page that tells the user what it within the first 3 seconds 
+* The site needs to be easy to navigate between the different pages via navbar
+* To have a landing page that tells the user what the page is at a glance
 * To have a well laid out page that is easy to use and understandable
 * To get feedback from the game when I win or lose in a level of the game
 * To be able to see the score throughout the game 
@@ -56,6 +56,7 @@
 * To give the website developer some feedback 
 * To be able to contact the site owner to give feedback
 * To be able to choose a difficulty level 
+* To be able to start the game when I am ready to play for a positive UX
 
 ### Design Choices
 To keep the game nice and simple for the user, I decided to keep the colour scheme nice and basic. The user’s attention should be drawn to the game area as soon as possible with no confusion about what the aim of the game is. To achieve this, the game area is going to be placed in the middle of the screen with a contrasting background colour.
