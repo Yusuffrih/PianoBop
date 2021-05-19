@@ -119,7 +119,21 @@ I used some music icons to add some design to the page and keep with the music t
 * Have a song played through the piano for the user to attempt to repeat
 
 ## Technologies Used
-
+* HTML 5 - HTML5 is a markup language I used for structuring and presenting content of my site
+* CSS3 - A language used to style the presentation of the content written in HTML5
+* Bootstrap 4 - A front-end framework which assist me in creating responsive website design
+* Google Fonts - An open-source online library of thousands of fonts and icons that were free and easy to use.
+* Coolors - Used this to generate a colour scheme that matched what I wanted for the site.
+* Font Awesome - An open source online library of icons which I used for extra styling.
+* Balsamic - Software used to complete the wireframes. This was much easier than trying to draw.
+* Git - System used for version control.
+* GitHub - This is where my project repository was stored.
+* GitPod - Open source, online workspace used to work on my project.
+* JQuery - A JavaScript library that assists in quickly writing JavaScript in a user-friendly and readable way
+* W3 HTML Validator - Used to validate my code to ensure that there were no errors.
+* W3 CSS Validator - Used to validate my code to ensure that there were no errors.
+* Google Chrome Dev Tools - A set of development tools to assist the user create web content. They are built directly into the browser
+* Lighthouse - One of the Chrome Dev Tools which was used to assess the level of accessibility, performance and correctness that was provided by the site.
 
 ## Testing
 
