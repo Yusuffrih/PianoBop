@@ -119,23 +119,23 @@ I used some music icons to add some design to the page and keep with the music t
 * Have a song played through the piano for the user to attempt to repeat
 
 ## Technologies Used
-* HTML 5 - HTML5 is a markup language I used for structuring and presenting content of my site
-* CSS3 - A language used to style the presentation of the content written in HTML5
-* Bootstrap 4 - A front-end framework which assist me in creating responsive website design
-* Google Fonts - An open-source online library of thousands of fonts and icons that were free and easy to use.
-* Coolors - Used this to generate a colour scheme that matched what I wanted for the site.
-* Font Awesome - An open source online library of icons which I used for extra styling.
-* Balsamic - Software used to complete the wireframes. This was much easier than trying to draw.
-* Git - System used for version control.
-* GitHub - This is where my project repository was stored.
-* GitPod - Open source, online workspace used to work on my project.
-* JQuery - A JavaScript library that assists in quickly writing JavaScript in a user-friendly and readable way
-* W3 HTML Validator - Used to validate my code to ensure that there were no errors.
-* W3 CSS Validator - Used to validate my code to ensure that there were no errors.
-* Google Chrome Dev Tools - A set of development tools to assist the user create web content. They are built directly into the browser
-* Lighthouse - One of the Chrome Dev Tools which was used to assess the level of accessibility, performance and correctness that was provided by the site.
-* JS Fiddle - An online playground IDE used to test and trial Javascript code with HTML and CSS
-* Youtube - Youtube videos are a great way to learn how to do different things if stuck on a particular piece of code
+* [HTML 5](https://en.wikipedia.org/wiki/HTML) - HTML5 is a markup language I used for structuring and presenting content of my site
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - A language used to style the presentation of the content written in HTML5
+* [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) 4 - A front-end framework which assist me in creating responsive website design
+* [Google Fonts](https://fonts.google.com/) - An open-source online library of thousands of fonts and icons that were free and easy to use.
+* [Coolors](https://coolors.co/) - Used this to generate a colour scheme that matched what I wanted for the site.
+* [Font Awesome](https://fontawesome.com/) - An open source online library of icons which I used for extra styling.
+* [Balsamic](https://balsamiq.com/) - Software used to complete the wireframes. This was much easier than trying to draw.
+* [Git](https://en.wikipedia.org/wiki/Git) - System used for version control.
+* [GitHub](https://github.com/) - This is where my project repository was stored.
+* [GitPod](https://www.gitpod.io/) - Open source, online workspace used to work on my project.
+* [JQuery](https://jquery.com/) - A JavaScript library that assists in quickly writing JavaScript in a user-friendly and readable way
+* [W3 HTML Validator](https://validator.w3.org/) - Used to validate my code to ensure that there were no errors.
+* [W3 CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to validate my code to ensure that there were no errors.
+* [Google https://developer.chrome.com/docs/devtools/Chrome Dev Tools]() - A set of development tools to assist the user create web content. They are built directly into the browser
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) - One of the Chrome Dev Tools which was used to assess the level of accessibility, performance and correctness that was provided by the site.
+* [JS Fiddle](https://jsfiddle.net/) - An online playground IDE used to test and trial Javascript code with HTML and CSS
+* [Youtube](https://www.youtube.com/) - Youtube videos are a great way to learn how to do different things if stuck on a particular piece of code
 
 ## Testing
 ### User Story Testing
