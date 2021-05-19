@@ -136,13 +136,35 @@ I used some music icons to add some design to the page and keep with the music t
 * Lighthouse - One of the Chrome Dev Tools which was used to assess the level of accessibility, performance and correctness that was provided by the site.
 * JS Fiddle - An online playground IDE used to test and trial Javascript code with HTML and CSS
 * Youtube - Youtube videos are a great way to learn how to do different things if stuck on a particular piece of code
-* 
 
 ## Testing
+### User Story Testing
+1. 
+2. 
+3. 
+.
+.
+.
+
+### Validator Testing 
+#### HTML Validator
+* Errors:
+
+* Fixes
+
+
+#### CSS Validator
+* Errors
+* Fixes
 
 
 ## Bugs
 
+### Bug 1
+### Fix 1
+
+### Bug 2
+### Fix 2 
 
 ## Deployment
 
