@@ -117,3 +117,20 @@ I used some music icons to add some design to the page and keep with the music t
 ### Features Yet To Be Implemented 
 * Giving the use the option to choose different difficulty levels 
 * Have a song played through the piano for the user to attempt to repeat
+
+## Technologies Used
+
+
+## Testing
+
+
+## Bugs
+
+
+## Deployment
+
+
+## Credits
+
+
+## Final Comments
