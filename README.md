@@ -113,6 +113,7 @@ I used some music icons to add some design to the page and keep with the music t
 * Feedback form operating through Email.js which provides the user with an personalised automatic, response to let them know that their feedback has been received
 * Feedback on how they are doing in the game 
 * Button feedback for every button pressed or click they make through audio and visual
+* A button to enable the user to pick a colour theme for the website e.g. dark/light 
 
 ### Features Yet To Be Implemented 
 * Giving the use the option to choose different difficulty levels 
