@@ -134,6 +134,9 @@ I used some music icons to add some design to the page and keep with the music t
 * W3 CSS Validator - Used to validate my code to ensure that there were no errors.
 * Google Chrome Dev Tools - A set of development tools to assist the user create web content. They are built directly into the browser
 * Lighthouse - One of the Chrome Dev Tools which was used to assess the level of accessibility, performance and correctness that was provided by the site.
+* JS Fiddle - An online playground IDE used to test and trial Javascript code with HTML and CSS
+* Youtube - Youtube videos are a great way to learn how to do different things if stuck on a particular piece of code
+* 
 
 ## Testing
 
