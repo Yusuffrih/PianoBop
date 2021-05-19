@@ -19,8 +19,8 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
         * Fonts
         * Colours
 * Features
-    * Existing Features
-    * Desired Features
+    * Implemented Features
+    * Features Not Yet Implemented
 * Technologies Used
 * Testing
 * Bugs
