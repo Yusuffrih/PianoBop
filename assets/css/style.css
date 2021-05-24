@@ -25,5 +25,13 @@ body {
     color: black;
 }
 
+.key.black {
+    height: 160px;
+    width: 45px;
+    background-color: black;
+    align-self:flex-start;
+    border-radius: 5px;
+    font-size: 1rem;
+}
 
 
