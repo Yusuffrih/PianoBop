@@ -3,11 +3,23 @@
 body {
     font-family: 'Roboto', 'Lato', sans-serif;
     font-size: 2rem;
+    background-image: url('../images/piano-background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #3F4045;
     color: #fcfcfc;
     margin: 0 auto;
     text-align: center;
 }
+
+/* ----------------------------Header */
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 
 #game-area {
     display: flex;
@@ -36,6 +48,14 @@ body {
     margin-left: -22.5px;
     margin-right: -22.5px;
     z-index: 2;
+}
+
+#left-notes {
+    float: right;
+}
+
+#right-notes {
+    float: left;
 }
 
 
