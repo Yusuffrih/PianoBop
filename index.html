@@ -20,11 +20,18 @@
         <h2 id="banner">Learn to play the piano in no time!</h2>
         <button class="btn-lg btn-secondary" id="play-button">Play</button>
         <div id="game-area">
-            <div class="key white">C</div>
-            <div class="key black">C#</div>
-            <div class="key white">D</div>
-            <div class="key black">D#</div>
-            <div class="key white">E</div>
+            <div class="key white" data-note="C"><p id="note">C</p></div>
+            <div class="key black" data-note="C#/Bb"><p id="note">C#/Db</p></div>
+            <div class="key white" data-note="D"><p id="note">D</p></div>
+            <div class="key black" data-note="D#"><p id="note">D#/Eb</p></div>
+            <div class="key white" data-note="E"><p id="note">E</p></div>
+            <div class="key white" data-note="F"><p id="note">F</p></div>
+            <div class="key black" data-note="F#"><p id="note">F#/Gb</p></div>
+            <div class="key white" data-note="G"><p id="note">G</p></div>
+            <div class="key black" data-note="G#"><p id="note">G#/Ab</p></div>
+            <div class="key white" data-note="A"><p id="note">A</p></div>
+            <div class="key black" data-note="A#"><p id="note">A#/Bb</p></div>
+            <div class="key white" data-note="B"><p id="note">B</p></div>
         </div>
         <div>Score:<span id="score">0</span></div>
         <button class="btn-lg btn-secondary" id="feedback-button">Any Feedback?</button>
