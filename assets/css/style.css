@@ -23,6 +23,7 @@ body {
     background-color: ivory;
     border-radius: 5px;
     color: black;
+    border: 1px solid #3F4045;
 }
 
 .key.black {
