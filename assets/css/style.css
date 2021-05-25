@@ -21,6 +21,8 @@ header {
 }
 
 /* ---------------------------- Game area */
+/* CSS techniques for piano and keys inspired by 
+'Web Dev Simplified' https://www.youtube.com/watch?v=vjco5yKZpU8&t=668s */
 
 #game-area {
     display: flex;
@@ -61,4 +63,49 @@ header {
     top: 80px;
 }
 
+@media screen and (max-width: 767px) {
+    .lg-screen-only {
+        display:none;
+    }
 
+}
+
+@media screen and (max-width:309px) {
+    #game-area {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .white {
+        height: 280px;
+        width: 70px;
+        background-color: ivory;
+        border-radius: 5px;
+        color: black;
+        border: 1px solid #3F4045;
+    }
+
+    .black {
+        height: 140px;
+        width: 30px;
+        background-color: black;
+        align-self:flex-start;
+        border-radius: 5px;
+        font-size: 1rem;
+        margin-left: -15px;
+        margin-right: -15px;
+        z-index: 2;
+    }
+    .white p {
+        position: relative;
+        top: 225px;
+        font-size: 80%;
+    }
+    
+    .black p {
+        position: relative;
+        top: 70px;
+        font-size: 80%;
+    }
+}
