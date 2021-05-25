@@ -13,13 +13,14 @@ body {
     text-align: center;
 }
 
-/* ----------------------------Header */
+/* --------------------------- Header */
 
 header {
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
+/* ---------------------------- Game area */
 
 #game-area {
     display: flex;
