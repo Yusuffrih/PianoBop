@@ -51,12 +51,5 @@ header {
     z-index: 2;
 }
 
-#left-notes {
-    float: right;
-}
-
-#right-notes {
-    float: left;
-}
 
 
