@@ -30,7 +30,7 @@ header {
     margin: 20 auto;
 }
 
-.key.white {
+.white {
     height: 320px;
     width: 90px;
     background-color: ivory;
@@ -39,7 +39,7 @@ header {
     border: 1px solid #3F4045;
 }
 
-.key.black {
+.black {
     height: 160px;
     width: 45px;
     background-color: black;
