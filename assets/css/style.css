@@ -51,5 +51,14 @@ header {
     z-index: 2;
 }
 
+.white p {
+    position: relative;
+    top: 250px;
+}
+
+.black p {
+    position: relative;
+    top: 100px;
+}
 
 
