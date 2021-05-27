@@ -11,6 +11,10 @@ body {
     color: #fcfcfc;
     margin: 0 auto;
     text-align: center;
+    /* part 1 of fix to keep footer at bottom of page - part 2 in footer section */
+    display:flex;   
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* --------------------------- Header */
@@ -20,8 +24,16 @@ header {
     padding-bottom: 20px;
 }
 
+
+/* --------------------------- Header */
+
+main {
+    padding-bottom: 80px;
+}
+
 /* ---------------------------- Game area */
-/* CSS techniques for piano and keys inspired by 
+
+/* Some CSS techniques for piano and keys inspired by 
 'Web Dev Simplified' https://www.youtube.com/watch?v=vjco5yKZpU8&t=668s */
 
 #game-area {
@@ -117,7 +129,7 @@ header {
 footer {
     background-color: black;
     width: 100%;
-    margin-top: 25px;
+    margin-top: auto; /* part 2 of fix to keep footer at bottom of page */
     padding: 15px;
 }
 
