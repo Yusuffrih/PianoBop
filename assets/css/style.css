@@ -12,6 +12,7 @@ body {
     margin: 0 auto;
     text-align: center;
     /* part 1 of fix to keep footer at bottom of page - part 2 in footer section */
+    /* This fix was taken from https://www.youtube.com/watch?v=yc2olxLgKLk */ 
     display:flex;   
     flex-direction: column;
     min-height: 100vh;
