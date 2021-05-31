@@ -31,6 +31,7 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 ## User Experience (UX)
 
 ### Site Owner Goals
+* I want to inspire people to play music
 * I want to give the users of my site a positive experience with a game that evokes positive emotions
 * I want to have a visually appealing website
 * I want the users to feel like they are testing their short-term memory and attention span
