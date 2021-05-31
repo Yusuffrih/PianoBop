@@ -57,7 +57,7 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 * As a user, I would like to be able to pick a colour theme for the website
 
 ### User Requirements
-* The site needs to be easy to navigate between the different pages via navbar
+* The site needs to be easy to navigate between the different features via good UX
 * To have a landing page that tells the user what the page is at a glance
 * To have a well laid out page that is easy to use and understandable
 * To get feedback from the game when I win or lose in a level of the game
