@@ -64,7 +64,6 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 * To be able to see the score throughout the game 
 
 ### User Expectations
-* To have instructions on how to play the game
 * To give the website developer some feedback 
 * To be able to contact the site owner to give feedback
 * To be able to choose a difficulty level 
