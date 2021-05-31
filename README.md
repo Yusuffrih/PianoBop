@@ -53,7 +53,6 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 * As a user, I would like to be given some positive/negative feedback when I pass/fail a level of the game
 * As a user, I would like to be able to give the game designer some feedback on how to improve the game features
 * As a user, I would like to have the game be as simple as possible to play
-* As a user, I would like to have some instructions on how to play the game made available to me at a click of a button
 * As a user, I would like to be able to see the game developer’s Github page to see if they have any other cool games to play
 * As a user, I would like to be able to pick a colour theme for the website
 
