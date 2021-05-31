@@ -42,13 +42,15 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 * For the game to be responsive so that I can play on various devices
 * To feel like my short-term memory is being challenged 
 * To be able to see my score throughout the duration of the game 
-* To be give feedback based on my choices - interactivity
+* To be given feedback based on my choices - interactivity
+* To be able to give the site owner some feedback so that they could improve the game and fix any bugs that may arise.
+* To be able to change the theme of page when playing the game
 
 ### User Stories
 * As a user, I would like to track my score throughout the game
 * As a user, I would like to be able to choose a variety of difficulties based on my skill level
-* As a user, I would like to be given some positive feedback when I get past a level of the game
-* As a user, I would like to be given some feedback when I fail at a level
+* As a user I would like to the game to have some variety in the game play so that I don't get bored. 
+* As a user, I would like to be given some positive/negative feedback when I pass/fail a level of the game
 * As a user, I would like to be able to give the game designer some feedback on how to improve the game features
 * As a user, I would like to have the game be as simple as possible to play
 * As a user, I would like to have some instructions on how to play the game made available to me at a click of a button
