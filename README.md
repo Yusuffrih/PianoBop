@@ -73,10 +73,10 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 To keep the game nice and simple for the user, I decided to keep the colour scheme nice and basic. The user’s attention should be drawn to the game area as soon as possible with no confusion about what the aim of the game is. To achieve this, the game area is going to be placed in the middle of the screen with a contrasting background colour.
 
 #### Fonts: 
-There is very little writing on the landing page so as not to confuse the user and to not take attention away from the game area. For the fonts, I decided to go to [Google Fonts](https://fonts.google.com/?standard-styles=) which is great for getting any kind of font you want. The fonts I chose for my page are *Roboto* & *Lato* with *sans-serif* as a backup font in the event that Google Fonts does not work. 
+There is very little writing on the landing page so as not to distract the user and to not take attention away from the game area. For the fonts, I decided to go to [Google Fonts](https://fonts.google.com/?standard-styles=) which is great for getting any kind of font you want. The fonts I chose for my page are *Roboto* & *Lato* with *sans-serif* as a backup font in the event that Google Fonts does not work. 
 
 #### Colours:
-When deciding what colour scheme to choose for my project, I decided to keep it really simple with mainly block colours and little design so as to keep the site looking simple yet sleep and visually appealing.
+When deciding what colour scheme to choose for my project, I decided to keep it really simple with a mainly black and white colour scheme to be similar to the colours of a piano. This has to effect of being simple yet sleek and visually appealing.
 
 I used [Coolors](https://coolors.co/) to generate a colour scheme for the site. This is a really cool site that randomly generates colour schemes. You can just keep generating new colour schemes until you find one that fits what your requirements are. When the colour scheme comes up, it provides you with the Hex value of the colours so you can just copy and paste it into your code. See below for my choice of colour scheme. 
 
