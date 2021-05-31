@@ -66,7 +66,7 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
 ### User Expectations
 * To give the website developer some feedback 
 * To be able to contact the site owner to give feedback
-* To be able to choose a difficulty level 
+* To be able to play at different difficulty levels 
 * To be able to start the game when I am ready to play for a positive UX
 
 ### Design Choices
