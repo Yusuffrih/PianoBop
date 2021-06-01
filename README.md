@@ -89,11 +89,8 @@ The HEX values of the colours that I used are:
 * #3F4045 - Onyx
     * I picked this colour as it is a dark gray colour which matches the theme of the black and white piano.
 
-* #30292F - Black Coffee
-    * I picked this colour, again because it is close to black and will work well as the black keys on the piano among other items on the page
-
-* #58A4B0 - Cadet Blue
-    * I picked this colour to add an injection of colour into the page and give it an appealing look. This will be used in various items on the page including headers and borders etc
+* #000000 - Black
+    * I picked this colour, again because it will work well as the black keys on the piano among other items on the page
 
 * #FCFCFC - White 
     * I picked white to be in my website colour scheme as it is a simple colour that contrasts well to all other colours and is keeping with the theme of the piano
