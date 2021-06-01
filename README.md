@@ -109,6 +109,14 @@ I used some music icons to add some design to the page and keep with the music t
 
 ## Wireframes
 
+When creating my wireframes, I first drew some rough sketches on paper but then decided that [Balsamiq](https://balsamiq.com/) would be the most suitable technology to use to assist with the design of the game. 
+
+I created mock ups for my page to fit into the main device types - Desktop, Tablet and Mobile. 
+
+* [Desktop](assets/wireframes/desktop-piano-bop.png)
+* [Tablet](assets/wireframes/tablet-piano-bop.png)
+* [Mobile](assets/wireframes/mobile-piano-bop.png)
+
 
 
 ## Features 
