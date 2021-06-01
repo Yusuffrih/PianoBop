@@ -147,7 +147,7 @@ I used some music icons to add some design to the page and keep with the music t
 ## Testing
 ### User Story Testing
 * As a user, I would like to track my score throughout the game
-* As a user, I would like to be able to choose a variety of difficulties based on my skill level
+* As a user, I would like a variety of difficulties to challenge my skill level
 * As a user, I would like to be given some positive feedback when I get past a level of the game
 * As a user, I would like to be given some feedback when I fail at a level
 * As a user, I would like to be able to give the game designer some feedback on how to improve the game features
