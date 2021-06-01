@@ -99,13 +99,12 @@ The HEX values of the colours that I used are:
     * I picked white to be in my website colour scheme as it is a simple colour that contrasts well to all other colours and is keeping with the theme of the piano
 
 The colours used in each of the following elements were as follows...
-* Body Background:
-* Font Colours(Headings and body): 
-* Game Area: 
-* Piano Keys:
-* Buttons:
-* Footer:
-* Form Background:
+* Body Background: black and white [image](assets/images/piano-background.jpg)
+* Font Colours(Headings and body): #FCFCFC 
+* Piano Keys: ##FBFFF1 - Ivory & #000000 - Black
+* Buttons: #3F4045 - Onyx
+* Footer: #000000 - Black 
+* Form Background: #FCFCFC - White 
 
 #### Icons
 I used some music icons to add some design to the page and keep with the music theme. I got these from [Font Awesome](https://fontawesome.com/) which is a great website for all your icon needs. I feel that the icons just add a little bit of extra style to the page and make it overall a bit more visually appealing. 
