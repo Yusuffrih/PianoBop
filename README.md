@@ -18,6 +18,7 @@ Piano Bop aims to be a really simple game and web-page overall that doesn't take
     * Design Choices
         * Fonts
         * Colours
+* Wireframes
 * Features
     * Implemented Features
     * Features Not Yet Implemented
@@ -106,6 +107,10 @@ The colours used in each of the following elements were as follows...
 #### Icons
 I used some music icons to add some design to the page and keep with the music theme. I got these from [Font Awesome](https://fontawesome.com/) which is a great website for all your icon needs. I feel that the icons just add a little bit of extra style to the page and make it overall a bit more visually appealing. 
 
+## Wireframes
+
+
+
 ## Features 
 ### Implemented Features
 * Title section at the top of the page
@@ -165,6 +170,7 @@ I used some music icons to add some design to the page and keep with the music t
 
 #### CSS Validator
 * Errors
+
 * Fixes
 
 ### Feature Testing 
