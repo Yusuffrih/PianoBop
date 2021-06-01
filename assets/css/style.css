@@ -18,6 +18,14 @@ body {
     min-height: 100vh;
 }
 
+/* ---------------------------- Buttons*/
+
+.btn-secondary{
+    background-color: #3F4045;
+    border: #3F4045;
+}
+
+
 /* --------------------------- Header */
 
 header {
@@ -76,7 +84,7 @@ main {
     top: 80px;
 }
 
-/* making the keyboard responsive */
+/* ---------------- making the keyboard responsive */
 
 @media screen and (max-width: 767px) {
     .lg-screen-only {
