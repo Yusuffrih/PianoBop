@@ -118,7 +118,6 @@ I created mock ups for my page to fit into the main device types - Desktop, Tabl
 * [Mobile](assets/wireframes/mobile-piano-bop.png)
 
 
-
 ## Features 
 ### Implemented Features
 * Title section at the top of the page
