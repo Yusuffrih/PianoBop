@@ -35,6 +35,12 @@ for (let key of keys) {
         const notePlayedAudio = notePlayed[0].audio;
         notePlayedAudio.currentTime = 0;
         notePlayedAudio.play();
+        /* How to add and remove active class taken 
+        from WDS - https://www.youtube.com/watch?v=vjco5yKZpU8 */
+        key.classList.add('active');
+        notePlayedAudio.addEventListener('ended', function (){
+            key.classList.remove('active');
+        });
     })
 };
 

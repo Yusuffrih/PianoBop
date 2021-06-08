@@ -79,9 +79,17 @@ main {
     top: 250px;
 }
 
+.white.active {
+    background-color: white;
+}
+
 .black p {
     position: relative;
     top: 80px;
+}
+
+.black.active {
+    background-color: rgb(31, 30, 30) ;
 }
 
 /* ---------------- making the keyboard responsive */
