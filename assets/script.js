@@ -32,7 +32,9 @@ for (let key of keys) {
     key.addEventListener('click', function (){
         let note = key.dataset.note;
         let notePlayed = notes.filter(played => played.note === note);
-        notePlayed[0].audio.play()
+        const notePlayedAudio = notePlayed[0].audio;
+        notePlayedAudio.currentTime = 0;
+        notePlayedAudio.play();
     })
 };
 
