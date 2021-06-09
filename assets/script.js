@@ -1,4 +1,9 @@
 const keys = document.querySelectorAll('#game-area [data-note]');
+const whiteKeys = document.getElementsByClassName('.piano-key .white');
+const blackKeys = document.getElementsByClassName('.piano-key .black');
+
+/* const white = [ 'z', 'x', 'c', 'c', 'v', 'b', 'n', 'm',];
+const black = ['s', 'd', 'g', 'h', 'j']; */ 
 
 const noteC = new Audio('assets/notes/C.m4a');
 const noteDb = new Audio('assets/notes/Db.m4a');
@@ -28,6 +33,15 @@ const notes = [
     {note: "B-note", audio: noteB},
 ]
 
+/* document.addEventListener('keydown', e =>  {
+    const key = e.key;
+    const indexOfWhiteKey = white.indexOf(key);
+    const indexOfBlackKey = black.indexOf(key);
+
+    if(indexOfWhiteKey > -1) playNotes(whiteKeys[indexOfWhiteKey]);
+    if(indexOfBlackKey  > -1) playNotes(blackKeys[indexOfBlackKey]);
+}) */
+
 for (let key of keys) {
     key.addEventListener('click', function (){
         let note = key.dataset.note;
@@ -43,6 +57,7 @@ for (let key of keys) {
         });
     })
 };
+
 
 
 
